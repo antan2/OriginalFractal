@@ -1,4 +1,4 @@
-int t = 650;
+int t = 0;
 int t2 = 0;
 int s = 1;
 public void setup() {
